@@ -4,7 +4,7 @@ Created by Ben Blease
 
 8/22/15
 
-Encode and decode binary trees in list format.
+Encode and decode imperfect binary trees in list format.
 
 Encoded to base 16 with extra bit indicating children for a node.
 
