@@ -6,6 +6,8 @@ Created by Ben Blease
 
 Encode and decode binary trees in list format.
 
+Encoded to base 16 with extra bit indicating children for a node.
+
 '''
 
 
